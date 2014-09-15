@@ -9,7 +9,10 @@
   "description": "Tags input directive for AngularJS with click callback functionality",
   "license": "MIT",
   "ignore": [
-    "ngTagsInput/**",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "ngTagsInput"
   ],
   "repository": {
     "type": "git",
