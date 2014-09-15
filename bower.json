@@ -13,4 +13,5 @@
     "Michael Benford <michael@michaelbenford.net>"
   ],
   "description": "Tags input directive for AngularJS with click callback functionality",
-  "license": "MIT",
+  "license": "MIT"
+}
