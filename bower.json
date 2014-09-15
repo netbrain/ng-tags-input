@@ -8,3 +8,8 @@
   ],
   "description": "Tags input directive for AngularJS with click callback functionality",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/netbrain/ng-tags-input.git"
+  }
+}
