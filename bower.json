@@ -1,0 +1,16 @@
+{
+  "name": "ng-tags-input",
+  "main": ["ng-tags-input.js","ng-tags-input.css","ng-tags-input.bootstrap.css"],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "ngTagsInput"
+  ],
+  "version": "2.1.1",
+  "homepage": "http://mbenford.github.io/ngTagsInput",
+  "authors": [
+    "Michael Benford <michael@michaelbenford.net>"
+  ],
+  "description": "Tags input directive for AngularJS with click callback functionality",
+  "license": "MIT",
