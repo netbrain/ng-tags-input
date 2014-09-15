@@ -1,0 +1,3 @@
+[submodule "ngTagsInput"]
+	path = ngTagsInput
+	url = https://github.com/kerkero/ngTagsInput.git
