@@ -1,0 +1,8 @@
+{
+  "name": "ng-tags-input",
+  "main": [
+    "ng-tags-input.js",
+    "ng-tags-input.css",
+    "ng-tags-input.bootstrap.css"
+  ],
+
